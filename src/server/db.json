@@ -1,0 +1,164 @@
+{
+    "meals": [
+        {
+            "id": 1,
+            "name": "Bbq Chicken Thighs",
+            "ingredients": [
+                "chicken thighs",
+                "bbq sauce",
+                "olive oil"
+            ],
+            "recipe": "Preheat oven to 400. Coat the thighs in olive oil. Cook for 50 minutes, then take out and coat with bbq sauce and cook for an additional 10 minutes.",
+            "kidswilleat": true,
+            "meat": "chicken",
+            "sidedish": "green beans"
+        },
+        {
+            "id": 2,
+            "name": "Spaghetti Bolognese",
+            "ingredients": [
+                "ground beef",
+                "onion",
+                "garlic",
+                "tomato sauce",
+                "spaghetti"
+            ],
+            "recipe": "Brown ground beef with chopped onion and garlic. Add tomato sauce. Serve over cooked spaghetti.",
+            "kidswilleat": true,
+            "meat": "beef",
+            "sidedish": "garlic bread"
+        },
+        {
+            "id": 3,
+            "name": "Grilled Salmon",
+            "ingredients": [
+                "salmon fillet",
+                "lemon",
+                "olive oil",
+                "salt",
+                "pepper"
+            ],
+            "recipe": "Marinate salmon in a mixture of lemon juice, olive oil, salt, and pepper. Grill until cooked through.",
+            "kidswilleat": true,
+            "meat": "fish",
+            "sidedish": "steamed broccoli"
+        },
+        {
+            "id": 4,
+            "name": "Vegetable Stir-Fry",
+            "ingredients": [
+                "mixed vegetables",
+                "tofu",
+                "soy sauce",
+                "ginger",
+                "garlic"
+            ],
+            "recipe": "Stir-fry mixed vegetables and tofu with soy sauce, ginger, and garlic. Serve with rice.",
+            "kidswilleat": true,
+            "meat": "tofu",
+            "sidedish": "rice"
+        },
+        {
+            "id": 5,
+            "name": "Chicken Alfredo",
+            "ingredients": [
+                "chicken breasts",
+                "fettuccine pasta",
+                "heavy cream",
+                "Parmesan cheese"
+            ],
+            "recipe": "Cook chicken and slice. Cook fettuccine pasta. Make a sauce with heavy cream and Parmesan cheese. Combine all ingredients.",
+            "kidswilleat": true,
+            "meat": "chicken",
+            "sidedish": "garlic bread"
+        },
+        {
+            "id": 6,
+            "name": "Taco Salad",
+            "ingredients": [
+                "ground beef",
+                "lettuce",
+                "tomato",
+                "cheese",
+                "taco seasoning"
+            ],
+            "recipe": "Brown ground beef with taco seasoning. Serve over a bed of lettuce with chopped tomato and cheese.",
+            "kidswilleat": true,
+            "meat": "beef",
+            "sidedish": "tortilla chips"
+        },
+        {
+            "id": 7,
+            "name": "Vegetarian Pizza",
+            "ingredients": [
+                "pizza dough",
+                "tomato sauce",
+                "bell peppers",
+                "mushrooms",
+                "olives"
+            ],
+            "recipe": "Top pizza dough with tomato sauce, bell peppers, mushrooms, and olives. Bake until crust is golden brown.",
+            "kidswilleat": true,
+            "meat": "none",
+            "sidedish": "mixed greens salad"
+        },
+        {
+            "id": 8,
+            "name": "Teriyaki Chicken",
+            "ingredients": [
+                "chicken thighs",
+                "teriyaki sauce",
+                "rice",
+                "broccoli"
+            ],
+            "recipe": "Marinate chicken thighs in teriyaki sauce. Grill or bake until cooked through. Serve with rice and steamed broccoli.",
+            "kidswilleat": true,
+            "meat": "chicken",
+            "sidedish": "steamed broccoli"
+        },
+        {
+            "id": 9,
+            "name": "Spinach and Feta Stuffed Chicken",
+            "ingredients": [
+                "chicken breasts",
+                "spinach",
+                "feta cheese",
+                "garlic",
+                "olive oil"
+            ],
+            "recipe": "Stuff chicken breasts with a mixture of spinach and feta cheese. Sauté in olive oil with garlic until chicken is cooked.",
+            "kidswilleat": true,
+            "meat": "chicken",
+            "sidedish": "mashed potatoes"
+        },
+        {
+            "id": 10,
+            "name": "Mushroom Risotto",
+            "ingredients": [
+                "arborio rice",
+                "mushrooms",
+                "onion",
+                "white wine",
+                "parmesan cheese"
+            ],
+            "recipe": "Sauté mushrooms and onion. Add arborio rice and cook with white wine. Stir in parmesan cheese until creamy.",
+            "kidswilleat": true,
+            "meat": "none",
+            "sidedish": "mixed greens salad"
+        },
+        {
+            "id": 11,
+            "name": "Honey Glazed Ham",
+            "ingredients": [
+                "ham",
+                "honey",
+                "brown sugar",
+                "pineapple slices"
+            ],
+            "recipe": "Glaze ham with a mixture of honey and brown sugar. Bake and garnish with pineapple slices.",
+            "kidswilleat": true,
+            "meat": "pork",
+            "sidedish": "mashed sweet potatoes"
+        }
+    ]
+}
